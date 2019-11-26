@@ -1,2 +1,0 @@
-# Gulp
- setup by me 
